@@ -1,2 +1,2 @@
 # PF_Assignment
-For assignment questions, follow the Programming_Assignment folder. 
+Files with (.cpp) extension are readable. (.exe) files are compiled code for a machine.
